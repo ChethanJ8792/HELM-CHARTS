@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helmfolder:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-25T07:35:11.692878052Z"
+    description: A Helm chart for Kubernetes
+    digest: 08195aa878d7344a3c4dc7a8d2e3b6c9628906017bd09f4f5d42693f45f655f6
+    name: helmfolder
+    type: application
+    urls:
+    - https://chethanj8792.github.io/HELM-CHARTS/helmfolder-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-25T07:35:11.692140789Z"
